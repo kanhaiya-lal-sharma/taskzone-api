@@ -17,7 +17,7 @@ It includes **secure user authentication**, **role-based access control**, **tas
 ---
 
 ## 📁 Folder Structure
-
+```
 node-assignment/
 ├── controllers/
 ├── routes/
@@ -29,7 +29,7 @@ node-assignment/
 ├── server.js
 ├── .env
 └── README.md
-
+```
 
 
 ---
